@@ -1,2 +1,2 @@
-# bmical
-Caculate your BMI
+# bmi
+BMI Calculator
